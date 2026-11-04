@@ -1,0 +1,15 @@
+{
+  "version": "578.0.1",
+  "changes": {
+    "ru": [
+      "В настройках первым пунктом добавлен прямой вход «Заработать кредиты».",
+      "Экран использует текущий аккаунт. Заработок за рекламу пока не подключён."
+    ],
+    "en": [
+      "Earn credits is now the first Settings item and opens the credits screen directly.",
+      "The screen uses the current account. Rewarded earning is not connected yet."
+    ]
+  },
+  "sourceCommit": "32625f158a8aedf9d5ada849c33711d2badefc35",
+  "publishedAt": "2026-11-04T07:25:24.993356+00:00"
+}
